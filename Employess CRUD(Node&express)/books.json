@@ -1,0 +1,12 @@
+{
+  "books": [
+    {
+      "title": "ChatBot",
+      "author": "Anos",
+      "price": "1000",
+      "description": "How to replace the human support with the AI in chat applications",
+      "imgUrl": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+      "id": "d43d"
+    }
+  ]
+}

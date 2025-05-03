@@ -1,0 +1,14 @@
+{
+  "name": "book-api-assignment",
+  "version": "1.0.0",
+  "description": "Book Library API with JSON Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "json-server --watch books.json --port 3000"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.17.4"
+  }
+}
